@@ -33,7 +33,7 @@ int main(){
 	std::cout << "Basic OR operations" << std::endl;
     std::cout << " a || b : " << (a || b) << std::endl;
     std::cout << " a || c : " << (a || c ) << std::endl;
-    std::cout << " a ||b || c :" << (a || b || c) << std::endl;
+    std::cout << " a || b || c : " << (a || b || c) << std::endl;
 
 
 	//NOT : Negates whateve operand you put it with
@@ -43,8 +43,6 @@ int main(){
 	std::cout << "!a : " << !a << std::endl;
 	std::cout << "!b : " << !b << std::endl;
 	std::cout << "!c : " << !c << std::endl;
-
-
 
 	//Combinations of all these operators
 	std::cout << std::endl;
